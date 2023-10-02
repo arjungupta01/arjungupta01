@@ -16,8 +16,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjungupta01&show_icons=true&locale=en&layout=compact" alt="arjungupta01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjungupta01&" alt="arjungupta01" /></p>
-[![An image of @arjungupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjungupta01)](https://holopin.io/@arjungupta01)
-<!--
 **arjungupta01/arjungupta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![An image of @arjungupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjungupta01)](https://holopin.io/@arjungupta01)
+<!--
