@@ -1,3 +1,5 @@
+[![An image of @arjungupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjungupta01)](https://holopin.io/@arjungupta01)
+
 <h1 align="center">Hi 👋, I'm Arjun Gupta</h1>
 <h3 align="center">I am a 3rd Year undergraduate from Guru Tegh Bahadur Institute of Technology(GGSIPU).</h3>
 
@@ -29,5 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![An image of @arjungupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjungupta01)](https://holopin.io/@arjungupta01)
+
 <!--
