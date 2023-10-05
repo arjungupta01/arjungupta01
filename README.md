@@ -6,7 +6,7 @@
 - 📫 How to reach me **arjun011gupta@gmail.com**
 
 
-[![An image of @arjungupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjungupta01)](https://holopin.io/@arjungupta01)
+[![An image of @arjungupta01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arjungupta01)](https://holopin.io/@arjungupta01) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
